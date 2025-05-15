@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo rafael da cruz gomes, tenho 17 anos e sou natural de são paulo.estou concluindo o ensino médio no colaço. Atualmente, estou cursando a escola de programadores.curso pogramação de python. 
+Me chamo Rafael da cruz gomes, tenho 17 anos e sou natural de são paulo.estou concluindo o ensino médio no colaço. Atualmente, estou cursando a escola de programadores.curso pogramação de python. 
 
 <
     <a href="https://github.com/RGSH645">
